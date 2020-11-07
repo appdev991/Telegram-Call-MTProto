@@ -1,3 +1,3 @@
 Mixed Project File
-- MadelineProto Telegram Call on Laravel
-- Kindeditor
+- MadelineProto Telegram Call on Laravel (php folder)
+- Kindeditor (js folder)
